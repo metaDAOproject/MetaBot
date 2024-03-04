@@ -1,4 +1,4 @@
-# Foobar
+# MetaBot
 
 MetaBot is an AI Discord bot that allows users to ask questions about a specific channel in a Discord server. This is useful for getting a summary of information without the need to read through hours of chat logs.
 
